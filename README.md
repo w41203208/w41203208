@@ -8,15 +8,15 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=w41203208&repo=GraphQL-CRUD)](https://github.com/w41203208/GraphQL-CRUD) -->
 
-### Main Program Skills:
+### Program Language:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,go,javascript,typescript,net,nodejs,java" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,go,javascript,typescript,net,nodejs,java,python,kotlin" />
   </a>
 </p>
 
-### Web Skill
+### Web
 
 <p>
   <a href="https://skillicons.dev">
@@ -24,11 +24,27 @@
   </a>
 </p>
 
-### Tool Use:
+### Backend
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redis,vscode,unity,visualstudio,git,gcp,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=django,flask,spring,graphql,apollo" />
+  </a>
+</p>
+
+### SQL
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,redis" />
+  </a>
+</p>
+
+### Tool
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,unity,visualstudio,idea,git,github,gcp,docker,kubernetes,postman,jenkins,nginx,bash" />
   </a>
 </p>
 
